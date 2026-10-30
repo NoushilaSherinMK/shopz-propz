@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import HomeCarousel from "./Components/HomeCarousel";
 import Home from "./Page/Home";
 import { useState } from "react";
-import Footer from "./Components/footer";
+import Footer from "./Components/Footer";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Login from "./Page/Login";
 import Service from "./Page/Service";

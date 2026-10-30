@@ -1,0 +1,27 @@
+.Header .Navbar{
+    background-color: brown;
+}
+.header-bg{
+    background-color: rgb(161, 22, 22);
+    
+}
+.header-bg .nav-link{
+    color: white;
+}
+.header-bg .navbar-brand{
+    color: white;
+}
+.cart-span{
+    background-color: rgb(236, 63, 63);
+    width: 20px;
+    height: 20px;
+    display: flex;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    font-weight: bold;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}

@@ -1,9 +1,9 @@
-import Header from "./Comonents/Header"
+import Header from "./Components/Header"
 import 'bootstrap/dist/css/bootstrap.min.css';
-import HomeCarousel from "./Comonents/HomeCarousel";
+import HomeCarousel from "./Components/HomeCarousel";
 import Home from "./Page/Home";
 import { useState } from "react";
-import Footer from "./Comonents/footer";
+import Footer from "./Components/footer";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Login from "./Page/Login";
 import Service from "./Page/Service";
@@ -13,11 +13,11 @@ import AddProduct from "./admin/pages/AddProduct";
 import ListProduct from "./admin/pages/ListProduct";
 import EditProduct from "./admin/pages/EditProduct";
 import ListUsers from "./admin/List Users";
-import ProtectedRoute from "./Comonents/ProtectedRoute";
-import Profile from "./Comonents/Profile";
+import ProtectedRoute from "./Components/ProtectedRoute";
+import Profile from "./Components/Profile";
 import UnAuthorized from "./Page/UnAuthorized";
 import DashBoard from "./Page/DashBoard";
-import Products from "./Page/products";
+import Products from "./Page/Products";
 import About from "./Page/About";
 import Contact from "./Page/Contact";
 import DashBoardSeller from "./Page/DashboardSeller";

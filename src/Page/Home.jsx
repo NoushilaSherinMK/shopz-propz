@@ -1,7 +1,7 @@
 import { Container, Row } from "react-bootstrap";
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
-import ProductCard from "../Comonents/ProductCard";
+import ProductCard from "../Components/ProductCard";
 
 
 
